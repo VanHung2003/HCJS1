@@ -1,0 +1,11 @@
+.a{
+    text-align: center;
+    background-color: rgb(91, 180, 1);
+    color: whitesmoke;
+    font-size: large;
+}
+a{
+    text-decoration: none;
+    color: blue;
+    padding: 0 7rem;
+}
