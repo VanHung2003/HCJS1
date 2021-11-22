@@ -1,2 +1,2 @@
 # HCJS1
-https://github.com/VanHung2003/HCJS1/
+https://vanhung2003.github.io/HCJS1/
